@@ -1,14 +1,13 @@
-import React from 'react'
-import Slider from '../../components/Slider/Slider'
+import { data } from '../../components/data/data'
 import './Home.scss'
-function Menu() {
+function Home() {
+
   return (
-    <div className ='Menu'> 
-      <div className ="container">
-      <Slider/>
-      </div>
+    <div className='home'>
+
+
     </div>
   )
 }
 
-export default Menu
+export default Home
