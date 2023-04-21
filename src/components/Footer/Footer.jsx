@@ -41,7 +41,7 @@ function Footer() {
            TERMS OF SERVICES
        </p>
           </li>
-          <li>
+          <li>1
 <p>
             SHIPPING AND RETURNS   </p>      
            </li>
